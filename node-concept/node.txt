@@ -1,0 +1,7 @@
+Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that 
+executes JavaScript code outside a web browser
+
+node is a bunch of sugar on top of very complex virtual machine return by google
+V8 is a virtual machine
+
+node is set of library written in top of v8
